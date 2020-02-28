@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "start": "node app.js",
+    "install-start": "npm install && npm start"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "nconf": "^0.9.1",
+    "nodemon": "^1.12.1",
+    "srequire": "^1.0.1",
+    "underscore": "^1.8.3",
+    "winston": "^2.4.0"
+  }
+}
