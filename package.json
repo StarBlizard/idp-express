@@ -7,7 +7,7 @@
     "cookie-parser": "^1.4.3",
     "express": "^4.16.2",
     "express-session": "^1.15.6",
-    "nconf": "^0.9.1",
+    "nconf": "^0.11.4",
     "nodemon": "^1.12.1",
     "srequire": "^1.0.1",
     "underscore": "^1.8.3",
